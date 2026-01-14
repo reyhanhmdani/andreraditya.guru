@@ -28,8 +28,8 @@ Website CMS untuk mengelola artikel dan biografi, dibangun dengan Laravel 11.
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/reyhanhmdani/artikel-anguru.git
-cd artikel-anguru
+git clone https://github.com/reyhanhmdani/andreraditya.guru.git
+cd andreraditya.guru
 ```
 
 ### 2. Install dependencies
